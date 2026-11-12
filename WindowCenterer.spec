@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:/Users/DNC/Documents/Antigravity/window-centring-tool/assets/icon.ico'],
+    icon=['C:/Users/morte/Documents/Dev/window-centerer/assets/icon.ico'],
 )
